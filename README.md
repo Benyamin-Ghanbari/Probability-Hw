@@ -1,2 +1,4 @@
-# Probability-Hw
-This repository contains my solutions for homework of Uni Probability course
+# Probability HomeWork | Spring - 2024
+----------------------------------------
+
+# By : Benyamin Ghanbari
